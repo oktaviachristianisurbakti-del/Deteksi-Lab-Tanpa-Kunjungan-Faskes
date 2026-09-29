@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.xlsx
+*.xls
+*.csv
+hasil_audit_*.xlsx
